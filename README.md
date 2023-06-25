@@ -12,7 +12,7 @@ cd ./simple-console-chat
 ### Build
 
 ```bash
-g++ .\main.cpp .\chatman.cpp .\dataman.cpp -o simple-console-chat
+cmake -S . -B build && cmake --build build
 ```
 
 ### Run
