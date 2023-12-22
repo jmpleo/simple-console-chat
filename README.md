@@ -1,6 +1,6 @@
 # Simple Console Chat
 
-One session only. No history.
+One session only. No history. No networks.
 
 ### Installation
 
